@@ -1,12 +1,12 @@
 {
-  "name": "Aarav Sharma",
+  "name": "Palak Bhati",
   "role": "Aspiring Full Stack Developer",
   "tagline": "Building modern web experiences with React.",
   "about": "I am a computer science student passionate about web development and solving real-world problems.",
   "goals": "I want to join a product team as a full stack developer and keep learning from experienced engineers.",
   "interests": ["Web development", "Open source", "Problem solving", "UI design"],
   "profileImage": "/profile.png",
-  "email": "aarav@example.com",
+  "email": "palak2817@gmail.com",
   "socials": {
     "github": "https://github.com/",
     "linkedin": "https://linkedin.com/"
@@ -24,7 +24,8 @@
       "description": "A simple application to manage student records.",
       "technologies": ["React", "CSS", "Node.js"],
       "github": "https://github.com/",
-      "demo": "https://example.com/"
+      "demo": "https://example.com/",
+      "image": "/image/school_software_1.png"
     },
     {
       "id": 2,
@@ -32,7 +33,8 @@
       "description": "A responsive application displaying weather information.",
       "technologies": ["React", "CSS", "JavaScript"],
       "github": "https://github.com/",
-      "demo": "https://example.com/"
+      "demo": "https://example.com/",
+      "image":"/image/wa.png"
     },
     {
       "id": 3,
@@ -40,13 +42,15 @@
       "description": "An application for organizing everyday tasks.",
       "technologies": ["React", "CSS", "JavaScript"],
       "github": "https://github.com/",
-      "demo": "https://example.com/"
+      "demo": "https://example.com/",
+      "image":"/image/tm.png"
     }
   ],
-  "education": [
+  "education"
+  : [
     {
       "degree": "Bachelor of Computer Applications",
-      "college": "ABC College",
+      "college": "GL Bajaj College",
       "year": "2026",
       "description": "Studying programming and web development."
     }
